@@ -8,17 +8,17 @@ I enjoy turning ideas into functional web interfaces and exploring how AI tools 
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
-- 💻 Front-End Developer focused on web development.
-- 🎨 Interested in clean UI, responsive layouts, and user experience.
-- 🤖 Exploring AI-assisted development and AI-powered tools.
-- 🚀 Building practical projects to improve my development skills.
-- 📚 Continuously learning and exploring new technologies.
+-  Front-End Developer focused on web development.
+-  Interested in clean UI, responsive layouts, and user experience.
+-  Exploring AI-assisted development and AI-powered tools.
+-  Building practical projects to improve my development skills.
+-  Continuously learning and exploring new technologies.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Front-End Development
 
@@ -38,7 +38,7 @@ ChatGPT · Claude · Gemini · Blackbox AI
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 1. SkillUp – Educational Platform
 
@@ -78,7 +78,7 @@ A simple tool for masking sensitive text such as emails and passwords.
 
 ---
 
-## 🌱 Currently Exploring
+##  Currently Exploring
 
 - Modern JavaScript development.
 - React and Next.js.
@@ -88,10 +88,10 @@ A simple tool for masking sensitive text such as emails and passwords.
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - **GitHub:** [@lamaabed296-arch](https://github.com/lamaabed296-arch)
 
 ---
 
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile .
